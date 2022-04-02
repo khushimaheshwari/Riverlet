@@ -76,3 +76,59 @@ body {
   margin-top: -30px;
 }
 /* END HEADER */
+
+/* FOOTER */
+
+.panel-footer div.container{
+    width: 100%;
+    height: 200%;
+    background-image: url(data:image/jpeg;base64,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);
+    background-size: 100% 100%;
+}
+.panel-footer {
+  margin-top: 30px;
+  padding-top: 35px;
+  padding-bottom: 30px;
+  background-color: black;
+  border-top: 0;
+}
+.panel-footer div.row {
+  margin-bottom: 30px;
+}
+#hours, #address {
+  line-height: 2;
+  font-size: 1.1em;
+}
+#hours > span, {
+  font-size: 5em;
+  font-style: bold;
+}
+
+#testimonials {
+  font-style: italic;
+  margin-left: 200px;
+}
+#testimonials p:nth-child(2) {
+  margin-top: 55px;
+  }
+
+  .panel-footer .row a {
+    clear: both;
+    background-color: black;
+    border: 1px solid #FFF;
+    outline: none;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    overflow: hidden;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: center;
+    padding: 10px 20px 11px;
+    margin: 0;
+    font-family: 'latobold';
+    font-weight: normal;
+    font-size: 75%;
+    color: #FFF;
+    line-height: 100%;
+/* END FOOTER */
